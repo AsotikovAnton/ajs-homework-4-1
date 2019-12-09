@@ -6,6 +6,6 @@ const checkProductCount = (count) => {
   } catch (e) {
     return e;
   }
-}
+};
 
 export default checkProductCount;
